@@ -1,0 +1,9 @@
+D:\VisualStudioCS\LearnLINQ\ObjectInitializers\bin\Debug\ObjectInitializers.exe.config
+D:\VisualStudioCS\LearnLINQ\ObjectInitializers\bin\Debug\ObjectInitializers.exe
+D:\VisualStudioCS\LearnLINQ\ObjectInitializers\bin\Debug\ObjectInitializers.pdb
+D:\VisualStudioCS\LearnLINQ\ObjectInitializers\obj\Debug\ObjectInitializers.Form1.resources
+D:\VisualStudioCS\LearnLINQ\ObjectInitializers\obj\Debug\ObjectInitializers.Properties.Resources.resources
+D:\VisualStudioCS\LearnLINQ\ObjectInitializers\obj\Debug\ObjectInitializers.csproj.GenerateResource.cache
+D:\VisualStudioCS\LearnLINQ\ObjectInitializers\obj\Debug\ObjectInitializers.csproj.CoreCompileInputs.cache
+D:\VisualStudioCS\LearnLINQ\ObjectInitializers\obj\Debug\ObjectInitializers.exe
+D:\VisualStudioCS\LearnLINQ\ObjectInitializers\obj\Debug\ObjectInitializers.pdb

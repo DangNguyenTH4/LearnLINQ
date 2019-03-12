@@ -1,0 +1,10 @@
+D:\VisualStudioCS\LearnLINQ\LearnGeneric\bin\Debug\LearnGeneric.exe.config
+D:\VisualStudioCS\LearnLINQ\LearnGeneric\bin\Debug\LearnGeneric.exe
+D:\VisualStudioCS\LearnLINQ\LearnGeneric\bin\Debug\LearnGeneric.pdb
+D:\VisualStudioCS\LearnLINQ\LearnGeneric\obj\Debug\LearnGeneric.csprojAssemblyReference.cache
+D:\VisualStudioCS\LearnLINQ\LearnGeneric\obj\Debug\LearnGeneric.Form1.resources
+D:\VisualStudioCS\LearnLINQ\LearnGeneric\obj\Debug\LearnGeneric.Properties.Resources.resources
+D:\VisualStudioCS\LearnLINQ\LearnGeneric\obj\Debug\LearnGeneric.csproj.GenerateResource.cache
+D:\VisualStudioCS\LearnLINQ\LearnGeneric\obj\Debug\LearnGeneric.csproj.CoreCompileInputs.cache
+D:\VisualStudioCS\LearnLINQ\LearnGeneric\obj\Debug\LearnGeneric.exe
+D:\VisualStudioCS\LearnLINQ\LearnGeneric\obj\Debug\LearnGeneric.pdb

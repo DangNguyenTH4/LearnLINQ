@@ -1,0 +1,4 @@
+﻿Query Syntax , Method Syntax, Mixed Query and Method
+
+When Mix Q&M => Method was put in the end
+Query should be a line each line

@@ -1,0 +1,3 @@
+﻿La mot loai ky thuat giup Tao ra cac mat na (Mask) cho cac phuong thuc
+Tao ra mot Delegate : Dai dien cho 1 tap cac phuong thuc, khong quan tam den ten phuong thuc, quan tam
+toi su cung kieu du lieu va tap cac doi so.

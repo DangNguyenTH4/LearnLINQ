@@ -1,0 +1,9 @@
+D:\VisualStudioCS\LearnLINQ\Bai12_LazyLoading\bin\Debug\Bai12_LazyLoading.exe.config
+D:\VisualStudioCS\LearnLINQ\Bai12_LazyLoading\bin\Debug\Bai12_LazyLoading.exe
+D:\VisualStudioCS\LearnLINQ\Bai12_LazyLoading\bin\Debug\Bai12_LazyLoading.pdb
+D:\VisualStudioCS\LearnLINQ\Bai12_LazyLoading\obj\Debug\Bai12_LazyLoading.Form1.resources
+D:\VisualStudioCS\LearnLINQ\Bai12_LazyLoading\obj\Debug\Bai12_LazyLoading.Properties.Resources.resources
+D:\VisualStudioCS\LearnLINQ\Bai12_LazyLoading\obj\Debug\Bai12_LazyLoading.csproj.GenerateResource.cache
+D:\VisualStudioCS\LearnLINQ\Bai12_LazyLoading\obj\Debug\Bai12_LazyLoading.csproj.CoreCompileInputs.cache
+D:\VisualStudioCS\LearnLINQ\Bai12_LazyLoading\obj\Debug\Bai12_LazyLoading.exe
+D:\VisualStudioCS\LearnLINQ\Bai12_LazyLoading\obj\Debug\Bai12_LazyLoading.pdb

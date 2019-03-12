@@ -1,0 +1,10 @@
+D:\VisualStudioCS\LearnLINQ\DelegateF\bin\Debug\DelegateF.exe.config
+D:\VisualStudioCS\LearnLINQ\DelegateF\bin\Debug\DelegateF.exe
+D:\VisualStudioCS\LearnLINQ\DelegateF\bin\Debug\DelegateF.pdb
+D:\VisualStudioCS\LearnLINQ\DelegateF\obj\Debug\DelegateF.csprojAssemblyReference.cache
+D:\VisualStudioCS\LearnLINQ\DelegateF\obj\Debug\DelegateF.Form1.resources
+D:\VisualStudioCS\LearnLINQ\DelegateF\obj\Debug\DelegateF.Properties.Resources.resources
+D:\VisualStudioCS\LearnLINQ\DelegateF\obj\Debug\DelegateF.csproj.GenerateResource.cache
+D:\VisualStudioCS\LearnLINQ\DelegateF\obj\Debug\DelegateF.csproj.CoreCompileInputs.cache
+D:\VisualStudioCS\LearnLINQ\DelegateF\obj\Debug\DelegateF.exe
+D:\VisualStudioCS\LearnLINQ\DelegateF\obj\Debug\DelegateF.pdb

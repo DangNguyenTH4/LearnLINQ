@@ -1,0 +1,9 @@
+D:\VisualStudioCS\LearnLINQ\PracticeLINQ\bin\Debug\PracticeLINQ.exe.config
+D:\VisualStudioCS\LearnLINQ\PracticeLINQ\bin\Debug\PracticeLINQ.exe
+D:\VisualStudioCS\LearnLINQ\PracticeLINQ\bin\Debug\PracticeLINQ.pdb
+D:\VisualStudioCS\LearnLINQ\PracticeLINQ\obj\Debug\PracticeLINQ.Form1.resources
+D:\VisualStudioCS\LearnLINQ\PracticeLINQ\obj\Debug\PracticeLINQ.Properties.Resources.resources
+D:\VisualStudioCS\LearnLINQ\PracticeLINQ\obj\Debug\PracticeLINQ.csproj.GenerateResource.cache
+D:\VisualStudioCS\LearnLINQ\PracticeLINQ\obj\Debug\PracticeLINQ.csproj.CoreCompileInputs.cache
+D:\VisualStudioCS\LearnLINQ\PracticeLINQ\obj\Debug\PracticeLINQ.exe
+D:\VisualStudioCS\LearnLINQ\PracticeLINQ\obj\Debug\PracticeLINQ.pdb

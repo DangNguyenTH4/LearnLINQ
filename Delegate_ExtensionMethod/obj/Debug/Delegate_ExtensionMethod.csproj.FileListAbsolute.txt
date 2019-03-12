@@ -1,0 +1,10 @@
+D:\VisualStudioCS\LearnLINQ\Delegate_ExtensionMethod\bin\Debug\Delegate_ExtensionMethod.exe.config
+D:\VisualStudioCS\LearnLINQ\Delegate_ExtensionMethod\bin\Debug\Delegate_ExtensionMethod.exe
+D:\VisualStudioCS\LearnLINQ\Delegate_ExtensionMethod\bin\Debug\Delegate_ExtensionMethod.pdb
+D:\VisualStudioCS\LearnLINQ\Delegate_ExtensionMethod\obj\Debug\Delegate_ExtensionMethod.Form1.resources
+D:\VisualStudioCS\LearnLINQ\Delegate_ExtensionMethod\obj\Debug\Delegate_ExtensionMethod.Properties.Resources.resources
+D:\VisualStudioCS\LearnLINQ\Delegate_ExtensionMethod\obj\Debug\Delegate_ExtensionMethod.csproj.GenerateResource.cache
+D:\VisualStudioCS\LearnLINQ\Delegate_ExtensionMethod\obj\Debug\Delegate_ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\VisualStudioCS\LearnLINQ\Delegate_ExtensionMethod\obj\Debug\Delegate_ExtensionMethod.exe
+D:\VisualStudioCS\LearnLINQ\Delegate_ExtensionMethod\obj\Debug\Delegate_ExtensionMethod.pdb
+D:\VisualStudioCS\LearnLINQ\Delegate_ExtensionMethod\obj\Debug\Delegate_ExtensionMethod.csprojAssemblyReference.cache

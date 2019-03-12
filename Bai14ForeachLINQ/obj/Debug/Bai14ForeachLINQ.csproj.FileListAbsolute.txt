@@ -1,0 +1,9 @@
+D:\VisualStudioCS\LearnLINQ\Bai14ForeachLINQ\bin\Debug\Bai14ForeachLINQ.exe.config
+D:\VisualStudioCS\LearnLINQ\Bai14ForeachLINQ\bin\Debug\Bai14ForeachLINQ.exe
+D:\VisualStudioCS\LearnLINQ\Bai14ForeachLINQ\bin\Debug\Bai14ForeachLINQ.pdb
+D:\VisualStudioCS\LearnLINQ\Bai14ForeachLINQ\obj\Debug\Bai14ForeachLINQ.Form1.resources
+D:\VisualStudioCS\LearnLINQ\Bai14ForeachLINQ\obj\Debug\Bai14ForeachLINQ.Properties.Resources.resources
+D:\VisualStudioCS\LearnLINQ\Bai14ForeachLINQ\obj\Debug\Bai14ForeachLINQ.csproj.GenerateResource.cache
+D:\VisualStudioCS\LearnLINQ\Bai14ForeachLINQ\obj\Debug\Bai14ForeachLINQ.csproj.CoreCompileInputs.cache
+D:\VisualStudioCS\LearnLINQ\Bai14ForeachLINQ\obj\Debug\Bai14ForeachLINQ.exe
+D:\VisualStudioCS\LearnLINQ\Bai14ForeachLINQ\obj\Debug\Bai14ForeachLINQ.pdb

@@ -1,0 +1,6 @@
+﻿Dung nhieu trong truong hop su dung implicittype, (Var)
+Khong biet nguon co kieu gi,
+When Use Anonymous type
+	Tao ra 1 doi tuong tam thoi de luu tru gia tri nao do
+	Khong can phuong thuc
+When shouldn't use AT : muon tai su dung, ..

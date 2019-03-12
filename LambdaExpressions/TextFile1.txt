@@ -1,0 +1,8 @@
+﻿Lambda expression is an anonymous function (same anonymou type) => don't have a name function
+
+Use lambda Ex:
+	Expressions:		Explain:
+	x=> x+3				if x = 1 then return x = 4
+	x=> x==5			if x=5 then return true
+	(x,y)=>x+y			if x=2,y=3 then return 5
+	(x,y)=>x==y			if x=2,y=3 then return false

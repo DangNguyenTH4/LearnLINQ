@@ -1,0 +1,9 @@
+D:\VisualStudioCS\LearnLINQ\AnonymousTypes\bin\Debug\AnonymousTypes.exe.config
+D:\VisualStudioCS\LearnLINQ\AnonymousTypes\bin\Debug\AnonymousTypes.exe
+D:\VisualStudioCS\LearnLINQ\AnonymousTypes\bin\Debug\AnonymousTypes.pdb
+D:\VisualStudioCS\LearnLINQ\AnonymousTypes\obj\Debug\AnonymousTypes.Form1.resources
+D:\VisualStudioCS\LearnLINQ\AnonymousTypes\obj\Debug\AnonymousTypes.Properties.Resources.resources
+D:\VisualStudioCS\LearnLINQ\AnonymousTypes\obj\Debug\AnonymousTypes.csproj.GenerateResource.cache
+D:\VisualStudioCS\LearnLINQ\AnonymousTypes\obj\Debug\AnonymousTypes.csproj.CoreCompileInputs.cache
+D:\VisualStudioCS\LearnLINQ\AnonymousTypes\obj\Debug\AnonymousTypes.exe
+D:\VisualStudioCS\LearnLINQ\AnonymousTypes\obj\Debug\AnonymousTypes.pdb

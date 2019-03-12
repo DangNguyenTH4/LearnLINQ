@@ -1,0 +1,9 @@
+D:\VisualStudioCS\LearnLINQ\ImplicitlyTypeVar\bin\Debug\ImplicitlyTypeVar.exe.config
+D:\VisualStudioCS\LearnLINQ\ImplicitlyTypeVar\bin\Debug\ImplicitlyTypeVar.exe
+D:\VisualStudioCS\LearnLINQ\ImplicitlyTypeVar\bin\Debug\ImplicitlyTypeVar.pdb
+D:\VisualStudioCS\LearnLINQ\ImplicitlyTypeVar\obj\Debug\ImplicitlyTypeVar.Form1.resources
+D:\VisualStudioCS\LearnLINQ\ImplicitlyTypeVar\obj\Debug\ImplicitlyTypeVar.Properties.Resources.resources
+D:\VisualStudioCS\LearnLINQ\ImplicitlyTypeVar\obj\Debug\ImplicitlyTypeVar.csproj.GenerateResource.cache
+D:\VisualStudioCS\LearnLINQ\ImplicitlyTypeVar\obj\Debug\ImplicitlyTypeVar.csproj.CoreCompileInputs.cache
+D:\VisualStudioCS\LearnLINQ\ImplicitlyTypeVar\obj\Debug\ImplicitlyTypeVar.exe
+D:\VisualStudioCS\LearnLINQ\ImplicitlyTypeVar\obj\Debug\ImplicitlyTypeVar.pdb

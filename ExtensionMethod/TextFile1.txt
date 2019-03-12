@@ -1,0 +1,2 @@
+﻿La mot phuong thuc tich, co cach de tro thanh mot extentions method
+Co the them(ADD) cac phuong thuc vao mot Class da ton tai, khong can bien dich(Edit), khong can ke thua.

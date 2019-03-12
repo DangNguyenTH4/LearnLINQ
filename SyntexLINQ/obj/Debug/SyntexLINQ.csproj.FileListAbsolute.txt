@@ -1,0 +1,10 @@
+D:\VisualStudioCS\LearnLINQ\SyntexLINQ\bin\Debug\SyntexLINQ.exe.config
+D:\VisualStudioCS\LearnLINQ\SyntexLINQ\bin\Debug\SyntexLINQ.exe
+D:\VisualStudioCS\LearnLINQ\SyntexLINQ\bin\Debug\SyntexLINQ.pdb
+D:\VisualStudioCS\LearnLINQ\SyntexLINQ\obj\Debug\SyntexLINQ.csprojAssemblyReference.cache
+D:\VisualStudioCS\LearnLINQ\SyntexLINQ\obj\Debug\SyntexLINQ.Form1.resources
+D:\VisualStudioCS\LearnLINQ\SyntexLINQ\obj\Debug\SyntexLINQ.Properties.Resources.resources
+D:\VisualStudioCS\LearnLINQ\SyntexLINQ\obj\Debug\SyntexLINQ.csproj.GenerateResource.cache
+D:\VisualStudioCS\LearnLINQ\SyntexLINQ\obj\Debug\SyntexLINQ.csproj.CoreCompileInputs.cache
+D:\VisualStudioCS\LearnLINQ\SyntexLINQ\obj\Debug\SyntexLINQ.exe
+D:\VisualStudioCS\LearnLINQ\SyntexLINQ\obj\Debug\SyntexLINQ.pdb

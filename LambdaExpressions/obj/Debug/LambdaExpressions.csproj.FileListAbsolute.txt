@@ -1,0 +1,10 @@
+D:\VisualStudioCS\LearnLINQ\LambdaExpressions\obj\Debug\LambdaExpressions.csprojAssemblyReference.cache
+D:\VisualStudioCS\LearnLINQ\LambdaExpressions\obj\Debug\LambdaExpressions.Form1.resources
+D:\VisualStudioCS\LearnLINQ\LambdaExpressions\obj\Debug\LambdaExpressions.Properties.Resources.resources
+D:\VisualStudioCS\LearnLINQ\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.GenerateResource.cache
+D:\VisualStudioCS\LearnLINQ\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.CoreCompileInputs.cache
+D:\VisualStudioCS\LearnLINQ\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+D:\VisualStudioCS\LearnLINQ\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+D:\VisualStudioCS\LearnLINQ\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+D:\VisualStudioCS\LearnLINQ\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+D:\VisualStudioCS\LearnLINQ\LambdaExpressions\obj\Debug\LambdaExpressions.pdb

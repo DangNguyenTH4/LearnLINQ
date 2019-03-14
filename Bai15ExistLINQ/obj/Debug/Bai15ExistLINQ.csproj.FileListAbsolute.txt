@@ -1,0 +1,10 @@
+D:\VisualStudioCS\LearnLINQ\Bai15ExistLINQ\bin\Debug\Bai15ExistLINQ.exe.config
+D:\VisualStudioCS\LearnLINQ\Bai15ExistLINQ\bin\Debug\Bai15ExistLINQ.exe
+D:\VisualStudioCS\LearnLINQ\Bai15ExistLINQ\bin\Debug\Bai15ExistLINQ.pdb
+D:\VisualStudioCS\LearnLINQ\Bai15ExistLINQ\obj\Debug\Bai15ExistLINQ.csprojAssemblyReference.cache
+D:\VisualStudioCS\LearnLINQ\Bai15ExistLINQ\obj\Debug\Bai15ExistLINQ.Form1.resources
+D:\VisualStudioCS\LearnLINQ\Bai15ExistLINQ\obj\Debug\Bai15ExistLINQ.Properties.Resources.resources
+D:\VisualStudioCS\LearnLINQ\Bai15ExistLINQ\obj\Debug\Bai15ExistLINQ.csproj.GenerateResource.cache
+D:\VisualStudioCS\LearnLINQ\Bai15ExistLINQ\obj\Debug\Bai15ExistLINQ.csproj.CoreCompileInputs.cache
+D:\VisualStudioCS\LearnLINQ\Bai15ExistLINQ\obj\Debug\Bai15ExistLINQ.exe
+D:\VisualStudioCS\LearnLINQ\Bai15ExistLINQ\obj\Debug\Bai15ExistLINQ.pdb

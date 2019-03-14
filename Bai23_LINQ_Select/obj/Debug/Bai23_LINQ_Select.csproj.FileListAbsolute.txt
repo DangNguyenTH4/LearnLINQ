@@ -1,0 +1,9 @@
+D:\VisualStudioCS\LearnLINQ\Bai23_LINQ_Select\obj\Debug\Bai23_LINQ_Select.Form1.resources
+D:\VisualStudioCS\LearnLINQ\Bai23_LINQ_Select\obj\Debug\Bai23_LINQ_Select.Properties.Resources.resources
+D:\VisualStudioCS\LearnLINQ\Bai23_LINQ_Select\obj\Debug\Bai23_LINQ_Select.csproj.GenerateResource.cache
+D:\VisualStudioCS\LearnLINQ\Bai23_LINQ_Select\obj\Debug\Bai23_LINQ_Select.csproj.CoreCompileInputs.cache
+D:\VisualStudioCS\LearnLINQ\Bai23_LINQ_Select\bin\Debug\Bai23_LINQ_Select.exe.config
+D:\VisualStudioCS\LearnLINQ\Bai23_LINQ_Select\bin\Debug\Bai23_LINQ_Select.exe
+D:\VisualStudioCS\LearnLINQ\Bai23_LINQ_Select\bin\Debug\Bai23_LINQ_Select.pdb
+D:\VisualStudioCS\LearnLINQ\Bai23_LINQ_Select\obj\Debug\Bai23_LINQ_Select.exe
+D:\VisualStudioCS\LearnLINQ\Bai23_LINQ_Select\obj\Debug\Bai23_LINQ_Select.pdb

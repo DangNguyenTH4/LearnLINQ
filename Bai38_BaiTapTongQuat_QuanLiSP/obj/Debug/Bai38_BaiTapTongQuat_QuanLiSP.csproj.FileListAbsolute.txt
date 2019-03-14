@@ -1,0 +1,10 @@
+D:\VisualStudioCS\LearnLINQ\Bai38_BaiTapTongQuat_QuanLiSP\bin\Debug\Bai38_BaiTapTongQuat_QuanLiSP.exe.config
+D:\VisualStudioCS\LearnLINQ\Bai38_BaiTapTongQuat_QuanLiSP\bin\Debug\Bai38_BaiTapTongQuat_QuanLiSP.exe
+D:\VisualStudioCS\LearnLINQ\Bai38_BaiTapTongQuat_QuanLiSP\bin\Debug\Bai38_BaiTapTongQuat_QuanLiSP.pdb
+D:\VisualStudioCS\LearnLINQ\Bai38_BaiTapTongQuat_QuanLiSP\obj\Debug\Bai38_BaiTapTongQuat_QuanLiSP.csprojAssemblyReference.cache
+D:\VisualStudioCS\LearnLINQ\Bai38_BaiTapTongQuat_QuanLiSP\obj\Debug\Bai38_BaiTapTongQuat_QuanLiSP.Form1.resources
+D:\VisualStudioCS\LearnLINQ\Bai38_BaiTapTongQuat_QuanLiSP\obj\Debug\Bai38_BaiTapTongQuat_QuanLiSP.Properties.Resources.resources
+D:\VisualStudioCS\LearnLINQ\Bai38_BaiTapTongQuat_QuanLiSP\obj\Debug\Bai38_BaiTapTongQuat_QuanLiSP.csproj.GenerateResource.cache
+D:\VisualStudioCS\LearnLINQ\Bai38_BaiTapTongQuat_QuanLiSP\obj\Debug\Bai38_BaiTapTongQuat_QuanLiSP.csproj.CoreCompileInputs.cache
+D:\VisualStudioCS\LearnLINQ\Bai38_BaiTapTongQuat_QuanLiSP\obj\Debug\Bai38_BaiTapTongQuat_QuanLiSP.exe
+D:\VisualStudioCS\LearnLINQ\Bai38_BaiTapTongQuat_QuanLiSP\obj\Debug\Bai38_BaiTapTongQuat_QuanLiSP.pdb

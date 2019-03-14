@@ -1,0 +1,10 @@
+D:\VisualStudioCS\LearnLINQ\Bai16FindLINQ\bin\Debug\Bai16FindLINQ.exe.config
+D:\VisualStudioCS\LearnLINQ\Bai16FindLINQ\bin\Debug\Bai16FindLINQ.exe
+D:\VisualStudioCS\LearnLINQ\Bai16FindLINQ\bin\Debug\Bai16FindLINQ.pdb
+D:\VisualStudioCS\LearnLINQ\Bai16FindLINQ\obj\Debug\Bai16FindLINQ.Form1.resources
+D:\VisualStudioCS\LearnLINQ\Bai16FindLINQ\obj\Debug\Bai16FindLINQ.Properties.Resources.resources
+D:\VisualStudioCS\LearnLINQ\Bai16FindLINQ\obj\Debug\Bai16FindLINQ.csproj.GenerateResource.cache
+D:\VisualStudioCS\LearnLINQ\Bai16FindLINQ\obj\Debug\Bai16FindLINQ.csproj.CoreCompileInputs.cache
+D:\VisualStudioCS\LearnLINQ\Bai16FindLINQ\obj\Debug\Bai16FindLINQ.exe
+D:\VisualStudioCS\LearnLINQ\Bai16FindLINQ\obj\Debug\Bai16FindLINQ.pdb
+D:\VisualStudioCS\LearnLINQ\Bai16FindLINQ\obj\Debug\Bai16FindLINQ.csprojAssemblyReference.cache

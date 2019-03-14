@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{91F1E3D2-A3EB-4EF7-8DE5-728886C27363}</ProjectGuid>
+    <ProjectGuid>{B9C8A214-DE51-488A-A4F1-F084941B31DD}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Bai15ExistLINQ</RootNamespace>
-    <AssemblyName>Bai15ExistLINQ</AssemblyName>
+    <RootNamespace>Bai23_LINQ_Select</RootNamespace>
+    <AssemblyName>Bai23_LINQ_Select</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -54,6 +54,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SinhVien.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

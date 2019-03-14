@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{91F1E3D2-A3EB-4EF7-8DE5-728886C27363}</ProjectGuid>
+    <ProjectGuid>{0AB44C7E-4390-430A-B170-C4F84FAFA223}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Bai15ExistLINQ</RootNamespace>
-    <AssemblyName>Bai15ExistLINQ</AssemblyName>
+    <RootNamespace>Bai16FindLINQ</RootNamespace>
+    <AssemblyName>Bai16FindLINQ</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
